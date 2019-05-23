@@ -2,7 +2,13 @@
 	font-family: MS Comic Sans;
 	text-align: center;
 }
+
+body {
+	background-color: lightgrey;
+}
+
 h1 {
 	border: 2px solid black;
-	padding: 5px solid #9bc1ff;
+	padding: 5px;
+	background-color: #9bc1ff;
 }
