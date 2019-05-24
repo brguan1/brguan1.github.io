@@ -16,6 +16,7 @@ h1 {
 
 table {
 	text-align: center;
+	align-self: center;
 	background-color: darkgrey;
 	border: 1px solid black;
 }
