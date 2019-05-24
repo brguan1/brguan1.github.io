@@ -8,7 +8,18 @@ body {
 }
 
 h1 {
-	border: 2px solid black;
+	margin: 0px;
+	max-width: 500px;
 	padding: 5px;
 	background-color: #9bc1ff;
+}
+
+table {
+	text-align: center;
+	background-color: darkgrey;
+	border: 1px solid black;
+}
+
+#italic {
+	font-style: italic;
 }
